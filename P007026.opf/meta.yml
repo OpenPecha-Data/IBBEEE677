@@ -1,16 +1,17 @@
-id: opecha:P007026
+id: P007026
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG22381
   title: སྤྱིར་བསྟན་གྱི་རྣམ་བཤད་ཐུབ་བསྟན་རིན་པོ་ཆེ་གསལ་བའི་སྒྲོན་མེ།
-  volume:
+  author: ''
+  volumes:
     e0c9cb91e7394381af8be35557ee6326:
       image_group_id: I1KG22413
       title: Volume 1 of spyir bstan gyi rnam bshad thub bstan rin po che gsal ba'i
         sgron me/
       volume_number: 1
       total_pages: 70
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྤྱིར་བསྟན་གྱི་རྣམ་བཤད་ཐུབ་བསྟན་རིན་པོ་ཆེ་གསལ་བའི་སྒྲོན་མེ།
   author: ''
